@@ -1,0 +1,15 @@
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+
+.navbar-nav > li > a {
+    color: #000 !important;
+}
+
+.panel {
+    margin-bottom: 20px;
+}
